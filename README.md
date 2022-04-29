@@ -1,4 +1,10 @@
-# gui
+# :nerd_face: What is this?
+A simple template with:
+* Vue 2
+* Vuetify offline
+* composition API
+
+
 
 ## Project setup
 ```
